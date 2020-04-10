@@ -7,3 +7,5 @@
 4:num = 20
 
 4:num = 10
+
+5: print("hhh")
